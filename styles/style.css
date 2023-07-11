@@ -186,3 +186,30 @@
 .insta-title{
     font-size: 40px;
 }
+
+/* latest section style */
+.latest-section{
+    width: 1300px;
+    height: 340px;
+    margin: auto;
+    background-image: url('../Flower Asset/Rectangle\ 9.png'),linear-gradient(45deg, rgb(192, 168, 168), white);
+    border-radius: 10px;
+    margin-bottom: 128px;
+}
+.latest-title{
+    font-size: 35px;
+}
+.content{
+    text-align: center;
+}
+.latest-box{
+    padding-top: 40px;
+    text-align: center;
+}
+.email-input{
+    padding: 15px 43px;
+    border: none;
+    width: 600px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
