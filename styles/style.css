@@ -1,7 +1,32 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Lato', sans-serif;
 }
+
+/* style menu bar */
+.menu-container{
+    background-color: gray;
+    padding: 10px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menu{
+    display: flex;
+  }
+  .items{
+      margin-right: 10px;
+      padding-right: 7px;
+      cursor: pointer;
+  }
+  .items:hover{
+      color: orange;
+  }
+
+  /* banner-section-style */
 
 .section-container {
   height: 760px;
