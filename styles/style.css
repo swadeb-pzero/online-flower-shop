@@ -5,6 +5,7 @@
 }
 
 /* style menu bar */
+
 .menu-container{
     background-color: gray;
     padding: 10px;
@@ -13,6 +14,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    
 }
 .menu{
     display: flex;
@@ -32,6 +34,7 @@
   height: 760px;
   background: rgba(229, 84, 115, 0.1);
   margin-bottom: 140px;
+  margin-top: 5px;
 }
 .banner-container {
   display: flex;
