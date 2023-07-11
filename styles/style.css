@@ -131,3 +131,31 @@
     text-align: center;
     padding-top: 40px;
 }
+
+
+/* hot-container-style */
+.hot-container{
+    height: 580px;
+    background: rgba(229, 84, 115, 0.05); 
+    border-radius: 8px;
+    margin-bottom: 130px;
+}
+.hot-section{
+    width: 1300px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+}
+.hot-title{
+   font-size: 30px; 
+   font-weight: bold;
+   margin-bottom: 24px;
+}
+.text-red{
+    color: #E55473;
+}
+.hot-details{
+    padding-bottom: 30px;
+}
